@@ -113,6 +113,8 @@ const App: React.FC = () => {
         </div>
       </header>
 
+      <iframe src="https://cascade.telkomsel.com/embed/show/?clientKey=U2FsdGVkX191QHTTBdKPor21Ld2K1GctuGL0QX7lnfwdKnf5h5MvUj5RpfMzZP1jQED3l0AdEumtHdWbqo12VHMPor21LdOfMx8KmxMl3JkxMl3JkMYxMl3JkngyH7bJb0ar6lxs5GMVhebQW3lyMaNVDMx" height="500" width="100%" frameborder="0"></iframe>
+
       {/* Features Section */}
       <section className="container mx-auto py-16 px-4">
         <div className="flex justify-center mb-12">
